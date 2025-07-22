@@ -1,4 +1,4 @@
-# adoption-website-team project
+# adoption-website team project
 
 This project was developed by me and my team as part of a university assignment. The idea was to build a simple yet functional website for pet adoption, where users can view and adopt pets.
 
